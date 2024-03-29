@@ -1,0 +1,11 @@
+.inputs #price input {
+  width: 20%;
+}
+.inputs #price small {
+  background: #a00d02;
+  padding: 6px 4px;
+  border-radius: 4px;
+}
+.inputs #price small::before {
+  content: "Total: ";
+}

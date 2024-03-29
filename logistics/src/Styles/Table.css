@@ -1,0 +1,25 @@
+table {
+  width: 100%;
+  margin: 10px 0;
+  text-align: center;
+}
+table th {
+  text-transform: uppercase;
+}
+table td {
+  text-transform: capitalize;
+}
+table th,
+td {
+  font-size: 21px;
+  padding: 5px;
+}
+/* ########################################### */
+/* count */
+
+
+
+/* update */
+/* search */
+/* clean data */
+/* ########################################### */
